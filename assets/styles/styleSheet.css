@@ -45,6 +45,10 @@ body {
 
 }
 
+.menuItemsMenu{
+  display: none;
+}
+
 
 .menuItems a:hover{
     color: black;
@@ -231,9 +235,22 @@ body {
 
 
 
+
 /* Non-mobile screens */
 
 
 /* Mobile-screens */
+
+
+@media only screen and (max-width: 768px) {
+
+  .menuItems{
+    display: none;
+  }
+  .menuItemsMenu{
+    display: block;
+  }
+
+}
 
 
