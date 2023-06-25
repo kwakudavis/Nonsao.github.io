@@ -1,6 +1,6 @@
 // Create the array with the text you want to write
 var txt2write = new Array(
-    "Building Technology That Empowers Immigrants and Developing Countries."
+    "Building Technology That Empowers Migrants and Developing Countries."
     );
 
 // Variables
